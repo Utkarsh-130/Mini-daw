@@ -1,0 +1,7 @@
+body {
+    background: url('audio-waveform-png-6.png') rgb(73, 127, 188);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
